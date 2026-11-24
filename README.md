@@ -5,6 +5,7 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 ## Identitas Siswa 
 * **Nama Lengkap :** Kezia Estherlie
 * **Jurusan      :** PPLG
+* **Kelas        :** 10
 
 ## Deskripsi Aplikasi
 Kalkulator Hebat adalah aplikasi yang di buat ini sebagia aplikasi itung stok dan uang
